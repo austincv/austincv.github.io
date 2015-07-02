@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a Big Data Engineer at Big Data Partnership. I am currently based out of London.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[austincv@gmail.com](mailto:austincv@gmail.com)
