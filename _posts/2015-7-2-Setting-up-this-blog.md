@@ -11,14 +11,7 @@ For more instructions head over to the [Jekyll Now repository](https://github.co
 I usually do all my work on Linux but I thought why not give a try on windows
 There was this other nice [website](http://jekyll-windows.juthilo.com/) which
 made setting up Jekyll to serve the website locally a pleasure.
-The following is what I did to set my dev environment or should I say blog environment
-on my Windows 8
-
-
-### Install GitHub for Windows
-
-This is straight forward. Head over to [this page](https://windows.github.com/) and download the latest version of 
-GitHub available and Install it.
+The following is what I did to set my environment on my Windows 8
 
 ### Install Python
 
@@ -66,3 +59,28 @@ Type the following command and it should install jekyll and the plug-ins used by
 gem install github-pages
 ```
 
+Now we are ready to clone our git repo and start posting 
+
+### Install GitHub for Windows
+
+This is straight forward. Head over to [this page](https://windows.github.com/) and download the latest version of 
+GitHub available and Install it.
+
+Open GitHub and clone your repo. I have cloned it to ```Documents\GitHub\```
+
+![git clone ](/images/gitclone.PNG "Click on the +, move to Clone tab and click on your repo and Clone")
+
+Now you are all set to serve your website locally
+Open up the command prompt and type the following.
+ 
+Remember to change ```C:\Users\Austin\Documents\GitHub\austincv.github.io``` with the path where you have put your repository
+
+```
+cd C:\Users\Austin\Documents\GitHub\austincv.github.io
+jekyll serve
+```
+
+You are all set.
+Open up your favourite web browser and go to [http://localhost:4000](http://localhost:4000)
+
+Now you can edit your posts and view it on your local machine before pushing to GitHub
