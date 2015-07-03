@@ -68,7 +68,7 @@ GitHub available and Install it.
 
 Open GitHub and clone your repo. I have cloned it to ```Documents\GitHub\```
 
-![git clone ](/images/gitclone.PNG "Click on the +, move to Clone tab and click on your repo and Clone")
+![git clone ](/images/gitclone.png "Click on the +, move to Clone tab and click on your repo and Clone")
 
 Now you are all set to serve your website locally
 Open up the command prompt and type the following.
