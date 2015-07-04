@@ -70,7 +70,7 @@ Open GitHub and clone your repo. I have cloned it to ```Documents\GitHub\```
 
 ![git clone ](/images/gitclone.png "Click on the +, move to Clone tab and click on your repo and Clone")
 
-Now you are all set to serve your website locally
+Now you are all set to serve your website locally.
 Open up the command prompt and type the following.
  
 Remember to change ```C:\Users\Austin\Documents\GitHub\austincv.github.io``` with the path where you have put your repository
