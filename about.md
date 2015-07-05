@@ -18,7 +18,3 @@ I also did some hobby robotics and Image processing in my spare time. Anyway, al
 has led to my current gig here in London. I love that word serendipity, I had to put it in here somehow. 
 
 I am currently a Big Data Engineer at [Big Data Partnership](http://bigdatapartnership.com).
-
-### Contact me
-
-[austincv@gmail.com](mailto:austincv@gmail.com)
