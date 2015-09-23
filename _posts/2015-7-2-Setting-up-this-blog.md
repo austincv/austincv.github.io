@@ -15,10 +15,10 @@ The following is what I did to set my environment on my Windows 8
 
 ### Install Python
 
-You need python pigments for syntax highlighting. So you need to install and add python to your path. 
+You need python pigments for syntax highlighting. So you need to install and add python to your path.
 The actual install of pigments will be taken care of by gem install github-pages later on.
 I got the python installer from [here](https://www.python.org/downloads/)
-I went with Python 2.7.10 as I wasn't sure of compatibility with 3.x.x 
+I went with Python 2.7.10 as I wasn't sure of compatibility with 3.x.x
 
 - [Python 2.7.10](https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi)
 
@@ -28,7 +28,7 @@ Don't forget to include it in your path during the installation
 
 ### Install Jekyll
 
-For this you need ruby. At the point of writing this the latest Ruby version available was Ruby 2.2.2. 
+For this you need ruby. At the point of writing this the latest Ruby version available was Ruby 2.2.2.
 I chose the x64 bit versions. Download the latest versions available [here](http://rubyinstaller.org/downloads/)
 
 The following are the links to the ones that I downloaded:
@@ -39,10 +39,10 @@ The following are the links to the ones that I downloaded:
 Make sure that the Ruby and the Ruby Dev Kit versions are compatible.
 It's written on the [downloads](http://rubyinstaller.org/downloads/) page which one goes with which version.
 
-The is a self-extracting archive. When you execute the file, it’ll ask you for a destination for the files. 
+The is a self-extracting archive. When you execute the file, it’ll ask you for a destination for the files.
 Enter a path that has no spaces in it like ```C:\RubyDevKit\```  and Click Extract and wait until the process is finished.
 
-Next, you need to initialize the DevKit and bind it to your Ruby installation. 
+Next, you need to initialize the DevKit and bind it to your Ruby installation.
 Open the command prompt and type the following replace C:\RubyDevKit with the path that you provided while extracting.
 
 ```
@@ -59,11 +59,11 @@ Type the following command and it should install jekyll and the plug-ins used by
 gem install github-pages
 ```
 
-Now we are ready to clone our git repo and start posting 
+Now we are ready to clone our git repo and start posting
 
 ### Install GitHub for Windows
 
-This is straight forward. Head over to [this page](https://windows.github.com/) and download the latest version of 
+This is straight forward. Head over to [this page](https://windows.github.com/) and download the latest version of
 GitHub available and Install it.
 
 Open GitHub and clone your repo. I have cloned it to ```Documents\GitHub\```
@@ -72,7 +72,7 @@ Open GitHub and clone your repo. I have cloned it to ```Documents\GitHub\```
 
 Now you are all set to serve your website locally.
 Open up the command prompt and type the following.
- 
+
 Remember to change ```C:\Users\Austin\Documents\GitHub\austincv.github.io``` with the path where you have put your repository
 
 ```
@@ -83,4 +83,9 @@ jekyll serve
 You are all set.
 Open up your favourite web browser and go to [http://localhost:4000](http://localhost:4000)
 
-Now you can edit your posts and view it on your local machine before pushing to GitHub
+Now you can edit your posts and view it on your local machine before pushing to GitHub.
+
+## Ubuntu
+
+As of 24th Sep 2015, I have moved back to Ubuntu. I find it far more intuitive for stuff like this.
+And my windows has been upgraded to 10.
