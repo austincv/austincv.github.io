@@ -12,7 +12,6 @@ I am a bit confused about current list of wonders of the world but these are wha
 - The Pyramids [](/images/tick-mark.png "Done")
 - The Great Wall of China [](/images/tick-mark.png "Done")
 - Taj Mahal [](/images/tick-mark.png "Done")
-- Eiffel Tower [](/images/tick-mark.png "Done")
 - Leaning Tower of Pisa [](/images/tick-mark.png "Done")
 - Colosseum [](/images/tick-mark.png "Done")
 
