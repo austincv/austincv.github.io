@@ -8,7 +8,7 @@ permalink: /bucketlist/
 
 I am a bit confused about the list of wonders of the world but these are what I want to visit.
 
-- Eiffel Tower : Paris, France [](/images/tick-mark.png "Done")
+- Eiffel Tower : Paris, France ![](/images/tick-mark.png "Done")
 - The Pyramids : Giza, Egypt [](/images/tick-mark.png "Done")
 - The Great Wall of China : China [](/images/tick-mark.png "Done")
 - Taj Mahal : Agra, India [](/images/tick-mark.png "Done")
@@ -24,7 +24,7 @@ I am a bit confused about the list of wonders of the world but these are what I 
 1. India ![](/images/tick-mark.png "Done")
 2. United Kingdom ![](/images/tick-mark.png "Done")
 3. Austria ![](/images/tick-mark.png "Done")
-4. France
+4. France ![](/images/tick-mark.png "Done")
 5. Switzerland
 6. Germany
 7. Italy
