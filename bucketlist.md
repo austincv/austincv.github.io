@@ -21,20 +21,23 @@ I am a bit confused about the list of wonders of the world but these are what I 
 
 ## 30 countries before 30
 
-1. India ![](/images/tick-mark.png "Done")
-2. United Kingdom ![](/images/tick-mark.png "Done")
-3. Austria ![](/images/tick-mark.png "Done")
-4. France ![](/images/tick-mark.png "Done")
-5. Switzerland
-6. Germany
-7. Italy
+- India ![](/images/tick-mark.png "Done")
+- United Kingdom ![](/images/tick-mark.png "Done")
+- Austria ![](/images/tick-mark.png "Done")
+- France ![](/images/tick-mark.png "Done")
+- Switzerland ![](/images/tick-mark.png "Done")
+- Germany ![](/images/tick-mark.png "Done")
+- Italy
+- USA
+- Spain
+- Netherlands
+- Croatia
+- Egypt
+
 
 ## Adventure stuff
 
+- Paragliding ![](/images/tick-mark.png "Done")
 - Skydive
 - Bungee jumps
-
-```
-Okay, more to be added.
-I am just building the template for this website right now.
-```
+- River rafting

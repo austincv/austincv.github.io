@@ -16,5 +16,3 @@ their [Innovation and Development Lab](http://www.mu-sigma.com/analytics/ecosyst
 I was part of a small group that did research on the applications of Hadoop and related Big Data technologies.
 I also did some hobby robotics and Image processing in my spare time. Anyway, all of that and some serendipity
 has led to my current job here in London as a Big Data Engineer at [Big Data Partnership](http://bigdatapartnership.com).
-
-ps: I love that word serendipity, I had to put it in here somehow.
