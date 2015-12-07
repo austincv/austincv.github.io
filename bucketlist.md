@@ -13,7 +13,7 @@ I am a bit confused about the list of wonders of the world but these are what I 
 - The Great Wall of China : China [](/images/tick-mark.png "Done")
 - Taj Mahal : Agra, India [](/images/tick-mark.png "Done")
 - Leaning Tower of Pisa : Pisa, Italy[](/images/tick-mark.png "Done")
-- Colosseum : Rome, Italy [](/images/tick-mark.png "Done")
+- Colosseum : Rome, Italy ![](/images/tick-mark.png "Done")
 - Christ Redeemer : Rio de Janeiro, Brazil [](/images/tick-mark.png "Done")
 - Machu Picchu : Peru [](/images/tick-mark.png "Done")
 - Petra : Jordan [](/images/tick-mark.png "Done")
@@ -27,7 +27,7 @@ I am a bit confused about the list of wonders of the world but these are what I 
 - France ![](/images/tick-mark.png "Done")
 - Switzerland ![](/images/tick-mark.png "Done")
 - Germany ![](/images/tick-mark.png "Done")
-- Italy
+- Italy ![](/images/tick-mark.png "Done")
 - USA
 - Spain
 - Netherlands
